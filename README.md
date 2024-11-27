@@ -3,8 +3,7 @@
 ### Design Engineer | Creative Developer | Data Vis | Music Producer
 Find my work on [hasankhalid.dev](https://hasankhalid.dev/)\
 ⚲ Washington DC, East Coast ☀️✽🍂\
-Co-Founder [Plotree Info Design](https://plotree.studio/), an independent design collective\
-Currently Design Engineer at [TechSoup](https://www.techsoup.org/)
+Co-Founder [Plotree Info Design](https://plotree.studio/), an independent design collective, Currently Design Engineer at [TechSoup](https://www.techsoup.org/)
 
 ## Highlited Work
 - Scrollytelling work on climate and food insecurity, featured on [Google's blog](https://blog.google/technology/ai/google-data-commons-ai/).
