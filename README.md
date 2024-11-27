@@ -1,4 +1,4 @@
-# Hey there, I am Hasan Khalid (He/Him) 👋
+# Hey there, I am Hasan (He/Him) 👋
 
 ### Design Engineer | Creative Developer | Data Vis | Music Producer
 Find my work on [hasankhalid.dev](https://hasankhalid.dev/)\
