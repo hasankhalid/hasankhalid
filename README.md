@@ -3,14 +3,14 @@
 ### Design Engineer | Creative Developer | Data Vis | Music Producer
 Find my work on [hasankhalid.dev](https://hasankhalid.dev/)\
 ⚲ Washington DC, East Coast ☀️✽🍂\
-Co-Founder [Plotree Info Design](https://plotree.studio/), an independent design collective, Currently Design Engineer at [TechSoup](https://www.techsoup.org/)
+Co-Founder [Plotree Info Design](https://plotree.studio/), an independent design collective, **Currently Design Engineer at [TechSoup](https://www.techsoup.org/)**
 
 ## Highlited Work
-- Scrollytelling work on climate and food insecurity, featured on [Google's blog](https://blog.google/technology/ai/google-data-commons-ai/).
-- [Interactive archives of Lahore](https://archive.lums.edu.pk/interactives/home) featuring stories on women's rights movements, political resistance and literary history.
-- [World's apart](https://maikimle.com/), a Vietnamese refugee's journey to the shores of America.
-- [Pakistan's Election Archives](https://elections.plotree.fun/) - An independent open data project focused on archiving election data since the 1970s.
-- [MUSIC 🎧 🎹](https://open.spotify.com/artist/25EwXpRGFy61qsVC13PAp1?si=vmow3-cGSVCy_tEHkUfdzg)
+- Scrollytelling work on **climate and food insecurity**, featured on **[Google's blog](https://blog.google/technology/ai/google-data-commons-ai/)**.
+- [Interactive archives of Lahore](https://archive.lums.edu.pk/interactives/home) featuring stories on **social movements, political resistance and literary history**.
+- [World's apart](https://maikimle.com/), a Vietnamese **refugee's journey** to the shores of America.
+- [Pakistan's Election Archives](https://elections.plotree.fun/) - An independent **open data project** focused on archiving election data since the 1970s.
+- [**MUSIC** 🎧 🎹](https://open.spotify.com/artist/25EwXpRGFy61qsVC13PAp1?si=vmow3-cGSVCy_tEHkUfdzg)
 
 ## Currently Building
 - Redesigning [DataCommons for Civil Society](https://datacommons.techsoup.org/)
