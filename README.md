@@ -18,7 +18,7 @@ Co-Founder [Plotree Info Design](https://plotree.studio/), an independent design
 - A scrollytelling library
 
 ## Fun fact
-I am really tall/clumsy and occasionally end up bumping my head in things.
+I am really tall/clumsy and occasionally end up bumping my head in random things.
 
 ## Let's connect
 Let's talk about web, storytelling, music, sunshine & all things fun!! Connect with me at [hasankhalid@plotree.studio](mailto:hasankhalid@plotree.studio)
