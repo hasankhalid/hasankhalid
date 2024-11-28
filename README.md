@@ -13,7 +13,7 @@ Co-Founder [Plotree Info Design](https://plotree.studio/), an independent design
 - [**MUSIC** 🎧 🎹](https://open.spotify.com/artist/25EwXpRGFy61qsVC13PAp1?si=vmow3-cGSVCy_tEHkUfdzg)
 
 ## Currently Building
-- Redesigning [DataCommons for Civil Society](https://datacommons.techsoup.org/)
+- Redesigning frontend for [DataCommons for Civil Society](https://datacommons.techsoup.org/)
 - My debut music album!
 - A scrollytelling library
 
